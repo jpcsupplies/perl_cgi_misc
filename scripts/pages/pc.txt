@@ -1,0 +1,29 @@
+~blank
+
+~Index
+!pages/menu.csv
+See <a href="http://www.hardocp.com">Hard OCP</a> for latest video card reviews. 
+Or <a href="http://www.tomshardware.com">Toms Hardware</a> for anything else.
+
+~Keyboards and Mice
+<b>Note: </b> The following prices are a guide only. Orders also attract postage and handling fees.
+
+!prices/keyboard.csv
+
+~CPUs
+<b>Note: </b> The following prices are a guide only. Orders also attract postage and handling fees.
+
+!prices/cpu.csv
+
+~Memory
+
+
+Memory Prices Change Daily, We will need to advise you the current price before shipping any orders.
+
+!prices/memory.csv
+
+~Audio and Video Cards
+<b>Note: </b> The following prices are a guide only. Orders also attract postage and handling fees.
+
+!prices/io.csv
+

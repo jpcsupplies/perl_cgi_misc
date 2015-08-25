@@ -1,0 +1,17 @@
+Brand,Code,Details,Price
+<img src="/images/brands/AMD.jpg" height=18 width=46 alt="AMD">,Socket 462,
+<img src="/images/brands/AMD.jpg" height=18 width=46 alt="AMD">,-,Athlon 2000+ and fan 266fsb,120,cart
+<img src="/images/brands/AMD.jpg" height=18 width=46 alt="AMD">,-,Athlon 2400+ and fan 266fsb,145,cart
+<img src="/images/brands/AMD.jpg" height=18 width=46 alt="AMD">,-,Athlon 2500+ and fan 333fsb,160,cart
+<img src="/images/brands/AMD.jpg" height=18 width=46 alt="AMD">,-,Athlon 2600+ and fan 333fsb,185,cart
+<img src="/images/brands/AMD.jpg" height=18 width=46 alt="AMD">,-,Athlon 2700+ and fan 333fsb,215,cart
+<img src="/images/brands/AMD.jpg" height=18 width=46 alt="AMD">,-,Athlon 2800+ and fan 333fsb,255,cart
+<img src="/images/brands/AMD.jpg" height=18 width=46 alt="AMD">,-,Athlon 3000+ and fan 333fsb,360,cart
+<img src="/images/brands/AMD.jpg" height=18 width=46 alt="AMD">,-,Athlon 3200+ and fan 400fsb,380,cart
+
+<img src="/images/brands/intel.jpg" height=18 width=46 alt="Intel">,Socket478,
+<img src="/images/brands/intel.jpg" height=18 width=46 alt="Intel">,-,PENTIUM 4 2.6GHZ/800FSB HyperThreading,331,cart
+<img src="/images/brands/intel.jpg" height=18 width=46 alt="Intel">,-,PENTIUM 4 2.8Ghz/800FSB HyperThreading,311,cart
+<img src="/images/brands/intel.jpg" height=18 width=46 alt="Intel">,-,PENTIUM 4 3.0Ghz/800FSB HyperThreading,393,cart
+<img src="/images/brands/intel.jpg" height=18 width=46 alt="Intel">,-,PENTIUM 4 3.2Ghz/800FSB HyperThreading,491,cart
+-,-,-,-

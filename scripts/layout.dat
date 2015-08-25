@@ -1,0 +1,15 @@
+5|160|#3399ff|#0080ff|#111111|#111111|#111111|#111111|black
+0|Navigation| http://www.trafalgar.org.au/wheel.gif
+1|CPUs
+2|Video cards
+3|Local Facilities
+4|Test section|5.dat
+5|Health|5.dat
+
+Menu Database Syntax:
+Line one: Cell Count0| Pel Width of menu | background2 | highlight3 | border color4 | link color5 | visited link6 | active link7 | text color8
+Line two: Navigation menu graphic
+
+Approx 8 pel per character
+All other lines:
+Link/Row Number| (Link) Text| (Optional) Linkto URL/File| (Optional) Browser Window to open in..

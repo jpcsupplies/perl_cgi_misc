@@ -1,0 +1,5 @@
+~Blank
+pages\blank.txt
+~Components
+pages/pc.txt
+
